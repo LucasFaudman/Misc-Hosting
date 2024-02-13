@@ -9,7 +9,7 @@
 
 The honeypot-ai project can be found here: https://github.com/LucasFaudman/honeypot-ai/tree/main
 
-The system works by providing dynamic access to Attack data and to external OSINT data via the OpenAI's new Function/Tool calling feature and the `Assistant` API for context window management.
+The system works by providing dynamic access to Attack data and to external OSINT data via OpenAI's new Function/Tool calling feature and the `Assistant` API for context window management.
 
 The topics I will cover in this post are:
  - Converting raw Logs into structured Python objects (`SourceIP`, `Session`, `Malware`, `Attack`)
