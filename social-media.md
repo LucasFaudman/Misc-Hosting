@@ -21,7 +21,7 @@ The topics I will cover in this post are:
 The first step in the overall process is reading the raw logs produced by the services on the honeypot into Python objects. 
 
 My honeypot is running the following software which produce logs:
-- Cowrie SSH/Telnet honeypot on ports 22,2233,2222,2223 which produces Cowrie logs in JSON format. A
+- Cowrie SSH/Telnet honeypot on ports 22,2233,2222,2223 which produces Cowrie logs in JSON format.
 - Dshield Web honeypot on ports 80,8080,443,8443 which produces web logs in JSON format.
 - Zeek IDS which produces a variety of logs in Zeek format
 
@@ -295,7 +295,7 @@ TOOLS = [
 
 The reason why one tool is used for multiple sources is because the AI can only handle a limited number of tools at a time and it is more efficient to query multiple sources at once than to have a tool for each source.
 
-> However some sources whose function is significantly different from the others such as ExploitDB and MalwareBazaar have their own tools.
+However some sources whose function is significantly different from the others such as ExploitDB and MalwareBazaar have their own tools.
 
 The ExploitDB tools for example allow the AI to query the ExploitDB for exploits that match the `Attack` object's `commands` and `http_requests` using the `search_exploitdb` tool.
 
