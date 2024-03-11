@@ -1,0 +1,89 @@
+aa-exec (1)          - execute a program with the specified AppArmor profile
+after(n)             - Execute a command after a time delay 
+asxprintf_exec(3), dxprintf_exec(3), fxprintf_exec(3), sxprintf_exec(3), xprintf_exec(3), vasxprintf_exec(3), vdxprintf_exec(3), vfxprintf_exec(3), vsxprintf_exec(3), vxprintf_exec(3) - execute-only extensible printf execution
+at (1)               - queue, examine or delete jobs for later execution
+atd (8)              - run jobs queued for later execution
+atq (1)              - queue, examine or delete jobs for later execution
+atrm (1)             - queue, examine or delete jobs for later execution
+atrun(8)             - run jobs queued for later execution
+batch (1)            - queue, examine or delete jobs for later execution
+bundle-exec(1)       - Execute a command in the context of the bundle
+compose (1)          - execute programs via entries in the mailcap file
+cron(8)              - daemon to execute scheduled commands (Vixie Cron)
+dde(n)               - Execute a Dynamic Data Exchange command
+defer(n)             - Defered execution
+dexec(n),            - Execute deterministic finite automatons
+dispatch_after(3)    - schedule blocks for deferred execution
+dispatch_apply(3)    - schedule blocks for iterative execution
+dispatch_async(3), dispatch_sync(3) - schedule blocks for execution
+dispatch_once(3)     - execute a block only once
+docker-container-exec (1) - Run a command in a running container
+docker-exec (1)      - Run a command in a running container
+edit (1)             - execute programs via entries in the mailcap file
+env(1)               - set environment and execute command, or print environment
+exec (3)             - execute a file
+exec(ntcl)           - Invoke subprocesses
+execl (3)            - execute a file
+execle (3)           - execute a file
+execlp (3)           - execute a file
+execsnoop(1m)        - snoop new process execution. Uses DTrace
+execv (3)            - execute a file
+execve (2)           - execute program
+execveat (2)         - execute program relative to a directory file descriptor
+execvp (3)           - execute a file
+execvpe (3)          - execute a file
+fexecve (3)          - execute program specified via file descriptor
+fileevent(n)         - Execute a script when a channel becomes readable or writable
+im-launch (1)        - launch input method end execute session program
+invoke-rc.d (8)      - executes System-V style init script actions
+kexec_file_load (2)  - load a new kernel for later execution
+kexec_load (2)       - load a new kernel for later execution
+lxc.exec (1)         - Execute commands in containers
+msgexec(1)           - process translations of message catalog
+nice(1)              - execute a utility at an altered scheduling priority
+osascript(1)         - execute OSA scripts AppleScript, JavaScript, etc
+perlrun(1)           - how to execute the Perl interpreter
+pkexec (1)           - Execute a command as another user
+postlock(1)          - lock mail folder and execute command
+print (1)            - execute programs via entries in the mailcap file
+profil (3)           - execution time profile
+rexec (3)            - return stream to a remote command
+rexec_af (3)         - return stream to a remote command
+run-mailcap (1)      - execute programs via entries in the mailcap file
+sandbox-exec(1)      - execute within a sandbox (DEPRECATED)
+see (1)              - execute programs via entries in the mailcap file
+send(n)              - Execute a command in a different application
+send(ntcl)           - Execute a command in a different application
+sg (1)               - execute command as different group ID
+spu_run (2)          - execute an SPU context
+sudo (8)             - execute a command as another user
+sudoedit (8)         - execute a command as another user
+suexec(8)            - Switch user before executing external programs
+system (3)           - execute a shell command
+systemd-binfmt (8)   - Configure additional binary formats for executables at boot
+systemd-binfmt.service (8) - Configure additional binary formats for executables at boot
+systemd-detect-virt (1) - Detect execution in a virtualized environment
+systemd-inhibit (1)  - Execute a program with an inhibition lock taken
+systemd-kexec.service (8) - System shutdown logic
+systemd.exec (5)     - Execution environment configuration
+taskpolicy(8)        - execute a program with an altered I/O or scheduling policy or change settings of already running process
+time(1)              - time command execution
+timerate(n)          - Calibrated performance measurements of script execution time
+torque(1)            - Launches one or more child processes, each of which performs a series of bandwidth intensive operations, and after completion reports the bandwidth actually achieved by each operation during a period when all operation streams were executing simultaneously.
+trace(n)             - Monitor variable accesses, command usages and command executions
+trace(ntcl)          - Monitor variable accesses, command usages and command executions
+uplevel(n)           - Execute a script in a different stack frame
+uux(1)               - Remote command execution over UUCP
+uuxqt(8)             - UUCP execution daemon
+watch (1)            - execute a program periodically, showing output fullscreen
+xargs(1)             - construct argument list(s) and execute utility
+xctspawn(1)          - Command line utility to execute XCTest unit and UI tests locally on device
+xpcproxy(8)          - configures the execution environment for XPC services
+Apache2::SubProcess(3pm) - -- Executing SubProcesses under mod_perl
+B::Hooks::EndOfScope(3pm) - Execute code after a scope finished compilation
+B::Hooks::EndOfScope::PP(3pm) - Execute code after a scope finished compilation - PP implementation
+B::Hooks::EndOfScope::XS(3pm) - Execute code after a scope finished compilation - XS implementation
+Lintian::Command (3) - Utilities to execute other commands from lintian code
+Safe(3pm)                - Compile and execute code in restricted compartments
+Tcl_EvalObjEx(3tcl), Tcl_EvalFile(3tcl), Tcl_EvalObjv(3tcl), Tcl_Eval(3tcl), Tcl_EvalEx(3tcl), Tcl_GlobalEval(3tcl), Tcl_GlobalEvalObj(3tcl), Tcl_VarEval(3tcl), Tcl_VarEvalVA(3tcl) tcl_traceExec - execute Tcl scripts
+Tcl_Sleep(3tcl)          - delay execution for a given number of milliseconds
